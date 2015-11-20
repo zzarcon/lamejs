@@ -15588,3 +15588,4 @@ this.WavHeader = WavHeader;
 }
 //fs=require('fs');
 //lamejs();
+module.exports = lamejs;
